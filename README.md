@@ -8,8 +8,9 @@ Fortuitously I found Dan Saks' talks at CppCon16: https://youtu.be/D7Sd8A6_fYU a
 Questions to make clear, what the goal of this repo should be:
 1. *Why Pico-SDK?* Well, I like the RPi Pico and the SDK is often easy to use and to understand.
 2. *Why C++?*
-2.1 As Dan Saks already published in 2016, C++ already delivered the better performance.
-2.2 I like the DRY principle, which can be achieved more easily in C++.
-2.3 Especially with the new C++20 features like *constexpr*, program size may be reduced and performance may even get better.
-...to be continued...
+    2.1 As Dan Saks already published in 2016, C++ already delivered the better performance.
+    2.2 I like the DRY principle, which can be achieved more easily in C++.
+    2.3 Especially with the new C++20 features like *constexpr*, program size may be reduced and performance may even get better.
 
+
+...to be continued...
