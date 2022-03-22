@@ -24,5 +24,10 @@ Questions to make clear, what the goal of this repo should be:
 
 ...to be continued...
 
+## Goals
+- easy to use and hard to misuse
+- easy to understand
+- lightweight or zero-cost whenever possible
+
 ## Ideas
 First implementing some communication classes with the outer world (GPIO, SPI, I2C, PWM...) to get the feeling how a HAL (hardware abstraction layer) should look like.
